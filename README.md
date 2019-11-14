@@ -5,7 +5,7 @@ Fun game generates number sequence with some fun messages in place of number bas
 
 1) Clone or download repository and run 'mvn test' from dir where pom.xml is present.
 
-2) Clone or downlpoad project. In IntelliJ File -> open pom.xml and open as project. To run test run SequenceGeneratorTest.java as junit test
+2) Clone or download project. In IntelliJ File -> open pom.xml and open as project. To run test run SequenceGeneratorTest.java as junit test
 
 # Two main tests:
 
